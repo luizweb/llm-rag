@@ -6,3 +6,5 @@ langchainhub
 langchain
 tiktoken
 chromadb
+youtube-transcript-api
+pytube

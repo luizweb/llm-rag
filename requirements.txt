@@ -1,10 +1,15 @@
 python-dotenv
 langchain_community
+langchain_ollama
 langchain-openai
-langchain_chroma
+langchain-chroma
 langchainhub
 langchain
+langgraph
 tiktoken
 chromadb
 youtube-transcript-api
 pytube
+pandas
+umap-learn
+chainlit
